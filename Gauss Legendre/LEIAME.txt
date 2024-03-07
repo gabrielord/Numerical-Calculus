@@ -1,0 +1,7 @@
+Gabriel Souza Lima - 11820106
+
+O código fonte consiste de um arquivo .ipynb.
+Para utilizá-lo, baixe o arquivo e abra-o no jupyter notebook ou em alguma outra IDE que suporte arquivos .ipynb, como o Visual Studio Code (nele, há uma extensão chamada jupyter que permite rodar os arquivos).
+Para testar o código, o usuário deve chamar, apenas, a função main(). As recomendações sobre o uso desta função encontram-se no relatório e no próprio código fonte através de exemplos.
+Basta definir o exemplo (1,2,3 ou 4) a ser testado e o número de pontos (n). 
+Caso deseje testar uma nova função, use o parâmetro exemplo=0, escolha o número de pontos, defina a função e defina os limites de integração.
