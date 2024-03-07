@@ -1,0 +1,6 @@
+Gabriel Souza Lima - 11820106
+Lucas Pereira da Fonseca - 11808126
+
+O arquivo foi escrito no jupyter notebook e é do tipo .ipynb.
+
+Para usá-lo, basta abrir o arquivo Ep3_Codigo.ipnyb no jupyter e rodar as células, conforme indicado no próprio arquivo e no relatório.
