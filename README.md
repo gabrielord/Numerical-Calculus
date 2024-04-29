@@ -1,3 +1,6 @@
+# Numerical Calculus Exercises
+This repository contains the solutions and related materials for the Numerical Calculus course exercises at University of São Paulo. Each folder in this repository corresponds to a specific exercise assignment, each dealing with a different aspect of numerical methods and their applications.
+
 ## Folder Structure
 
 - **Exercise 1: LU Decomposition**
